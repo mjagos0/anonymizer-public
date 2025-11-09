@@ -321,9 +321,3 @@ $44.5 * (1000 / 5000) * 2592000 ~= 23MB$
 For `KAFKA_PRODUCER_DELAY_MS` = 10
 
 $44.5 * (1000 / 10) * 2592000 ~= 11.534 GB$
-
-### Time Spent on the task
-Roughly ~2-3 weeks of work, mostly spent by
-- Tour of Go (some familiarity)
-- Going through Kafka & Clickhouse documentation (no prior experience)
-- Prototyping, refactoring, writing this report
